@@ -42,4 +42,17 @@ btn.{
   .carousel-caption {
     display: none;
   }
+  #icon {
+     max-width: 150px;
+}
+  h2 {
+    font-size: 1.7em;
+  }
+#icon {
+  max-width: 200px;
+  margin: 1% auto;
+}
+
+.container {
+  margin: 4% auto;
 }
